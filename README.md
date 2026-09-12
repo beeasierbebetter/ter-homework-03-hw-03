@@ -96,7 +96,7 @@ storage ansible_host=<внешний ip-адрес> fqdn=<полное доме�
 
 ### Решение:
 
-
+<img src = "img/ter-03-05.png" width = 100%>
 
 ------
 
